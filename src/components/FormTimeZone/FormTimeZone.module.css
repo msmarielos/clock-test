@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.label_text {
+  color: #9385bd;
+  font-size: 20px;
+  margin-bottom: 5px;
+}

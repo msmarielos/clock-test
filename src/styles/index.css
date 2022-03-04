@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.button {
+  padding: 8px 20px;
+  background: #b3a4df;
+  border-radius: 4px;
+  border: none;
+  color: #fff;
+  margin-top: 5px;
+}

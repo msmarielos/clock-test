@@ -1,0 +1,20 @@
+.header {
+  height: 3vw;
+  background-color: #b3a4df;
+  padding: 10px;
+
+  color: white;
+  font-size: 18px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  box-shadow: 1px 3px 6px #d5d5d5;
+}
+
+@media (max-width: 600px) {
+  .header {
+    height: 10vw;
+  }
+}
